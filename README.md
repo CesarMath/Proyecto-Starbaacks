@@ -1,4 +1,4 @@
-#Proyecto Final del Segundo Módulo (prt. 1)
+# Proyecto Final del Segundo Módulo (prt. 1)
 ### Pagina starbucks-César Alejándrez
 
 En este repositorio subiré los avances de la copia de la pagina principal de starbucks que realizamos en el curso como una práctica.
@@ -14,5 +14,3 @@ recursos vistos en las clases posteriores. Cualqueir duda o aclaración pueden c
 Link de la página: 
 
 César 'Diablo de los números' Alejándrez &copy; 2024 
-
-
