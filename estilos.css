@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.disp{
+    display: inline-block;
+    vertical-align: middle;
+}
+.contenedor{
+    background-color:rgb(217, 12, 57);
+    margin: 15px;
+}
+
+.contenedor-imagen{
+    width: 46%;
+}
+
+.contenedor-imagen .imagen {
+    width: 100%;
+}
+
+.contenedor-texto{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: SoDo Sans,Helvetica,Arial,sans-serif;
+    margin-left: 140px;
+}
+
+.margenes-tex{
+    margin-top: 50px;
+}
+
+.margen-lineas{
+    margin-top: 10px;
+}
+
+
+
